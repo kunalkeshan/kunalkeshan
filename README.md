@@ -58,6 +58,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Rich Dad Poor Dad by Robert Kiyosaki.](https://blog.kunalkeshan.com/rich-dad-poor-dad/?utm_source=rss&utm_medium=rss&utm_campaign=rich-dad-poor-dad)
+- [Man’s Search For Meaning by Victor E Frankl.](https://blog.kunalkeshan.com/mans-search-for-meaning/?utm_source=rss&utm_medium=rss&utm_campaign=mans-search-for-meaning)
+- [Who Moved My Cheese? by Spencer Johnson.](https://blog.kunalkeshan.com/who-moved-my-cheese/?utm_source=rss&utm_medium=rss&utm_campaign=who-moved-my-cheese)
+- [From a Biology Enthusiast to A Coding Freak. My Journey So Far.](https://blog.kunalkeshan.com/biology-coding/?utm_source=rss&utm_medium=rss&utm_campaign=biology-coding)
+- [Weekly Snippet #30](https://blog.kunalkeshan.com/weekly-snippet-30/?utm_source=rss&utm_medium=rss&utm_campaign=weekly-snippet-30)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://blog.kunalkeshan.com/blog)

@@ -84,6 +84,12 @@
 
 </details>
 
+<details>
+  <summary>:zap: Languages</summary>
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kunalkeshan&layout=compact)](https://github.com/kunalkeshan/github-readme-stats)
+
+</details>
 [website]: https://kunalkeshan.com
 [blog]: https://blog.kunalkeshan.com/
 [twitter]: https://twitter.com/_kunalkeshan_

@@ -69,7 +69,8 @@
 
 ---
 
-  <img align="left" alt="kunalkeshan's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=kunalkeshan&show_icons=true&hide_border=true" />
+ [![kunals's GitHub stats](https://github-readme-stats.vercel.app/api?username=kunalkeshan&show_icons=true&theme=radical)](https://github.com/kunalkeshan/github-readme-stats)
+
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kunalkeshan&layout=compact)](https://github.com/kunalkeshan/github-readme-stats)
 

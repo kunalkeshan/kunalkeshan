@@ -74,7 +74,7 @@
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kunalkeshan&layout=compact)](https://github.com/kunalkeshan/github-readme-stats)
 
-  [![kunalkeshan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kunalkeshan)](https://github.com/kunalkeshan/github-readme-stats)
+  <!-- [![kunalkeshan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kunalkeshan)](https://github.com/kunalkeshan/github-readme-stats) -->
 
 
 

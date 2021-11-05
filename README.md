@@ -44,11 +44,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Trying to Study | 6th May 2021](https://www.youtube.com/watch?v=Jeo1hYIa5fc)
-- [Trying to Study | 12th May 2021](https://www.youtube.com/watch?v=4uRX7ZUO0FY)
-- [Trying to Study | 13th May 2021](https://www.youtube.com/watch?v=YeV01fWjAU0)
-- [Trying to Study | 14th May 2021](https://www.youtube.com/watch?v=dTz6wGks58A)
-- [Trying to Study | 15th May 2021](https://www.youtube.com/watch?v=j1YOYCzJI5E)
+- [Study | 6th May 2021](https://www.youtube.com/watch?v=Jeo1hYIa5fc)
+- [Study | 12th May 2021](https://www.youtube.com/watch?v=4uRX7ZUO0FY)
+- [Study | 13th May 2021](https://www.youtube.com/watch?v=YeV01fWjAU0)
+- [Study | 14th May 2021](https://www.youtube.com/watch?v=dTz6wGks58A)
+- [Study | 15th May 2021](https://www.youtube.com/watch?v=j1YOYCzJI5E)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/channel/UCwVRztzBdqgB_Y9hkMX3lZA)

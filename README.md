@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Work on great personal projects.
+- 🥅 2022 Goals: Work on Real World Projects and Contribute to Open Source Projects.
 - ⚡ Fun fact: I love to read, [write][blog], make [YouTube videos][youtube].
 
 ### Connect with me:

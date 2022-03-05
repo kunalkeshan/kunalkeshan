@@ -1,5 +1,8 @@
-<h1 align="center">Hello there, I'm <a href="https://www.linkedin.com/in/kunalkeshan/">Kunal Keshan</a> <img alt="emoji" width="40" src="https://github.com/seanprashad/slackmoji/blob/master/emoji/shiblob/shiblob-nerd.png" /></h1>
-
+<h1 align="center">
+  
+  Hello there, I'm [Kunal Keshan][LINKEDIN] 
+  <img alt="emoji" width="40" src="https://github.com/seanprashad/slackmoji/blob/master/emoji/shiblob/shiblob-nerd.png" />
+</h1>
 <p align="center"> 
   <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white" />
 <!--   <img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white" /> -->
@@ -67,3 +70,11 @@
 </div>
 
 [![kunalkeshan's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=kunalkeshan&theme=xcode)](https://github.com/kunalkeshan)
+
+[WEBSITE]: https://kunalkeshan.dev
+[LINKEDIN]: https://www.linkedin.com/in/kunalkeshan/
+[TWITTER]: https://twitter.com/_kunalkeshan_
+[INSTAGRAM]: https://www.instagram.com/kunalkeshan/
+[YOUTUBE]: https://www.youtube.com/channel/UCwVRztzBdqgB_Y9hkMX3lZA
+[FACEBOOK]: https://www.facebook.com/kunalkeshans/
+[EMAIL]: mailto:kunalkeshan12@gmail.com

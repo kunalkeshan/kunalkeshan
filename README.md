@@ -1,4 +1,4 @@
-# Hello there, I'm Kunal Keshan
+<h1 align="center">Hello there, I'm <a href="https://www.linkedin.com/in/kunalkeshan/">Kunal Keshan</a> <img alt="emoji" width="40" src="https://github.com/seanprashad/slackmoji/blob/master/emoji/shiblob/shiblob-nerd.png" /></h1>
 
 <p align="center"> 
   <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white" />

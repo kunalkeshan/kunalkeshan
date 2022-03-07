@@ -121,7 +121,7 @@
 
 <h3>
   <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=kunalkeshan&label=Profile%20views&color=6805D3&style=flat" alt="Kunal Keshan Profile Visits" /> 
+    <img src="https://komarev.com/ghpvc/?username=kunalkeshan&label=Profile%20views&color=6805D3&style=for-the-badge" alt="Kunal Keshan Profile Visits" /> 
   </p>
 </h3>
 

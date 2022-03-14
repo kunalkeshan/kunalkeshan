@@ -118,6 +118,7 @@
 
 [![kunalkeshan's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=kunalkeshan&theme=xcode)](https://github.com/kunalkeshan)
 
+<!--START_SECTION:waka--><!--END_SECTION:waka-->
 
 <h3>
   <p align="center">

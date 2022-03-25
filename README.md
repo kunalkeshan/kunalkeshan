@@ -13,6 +13,12 @@
   <h3 align="center"> Full-Stack Web Developer | Writer </h3>
 </div>
 
+<h3>
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=kunalkeshan&label=Profile%20views&color=6805D3&style=for-the-badge" alt="Kunal Keshan Profile Visits" /> 
+  </p>
+</h3>
+
 <div>
   <h2 align="center">Tech I've been exploring</h2>
   <p align="center"> 
@@ -118,14 +124,10 @@
 
 [![kunalkeshan's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=kunalkeshan&theme=xcode)](https://github.com/kunalkeshan)
 
-<!--START_SECTION:waka--><!--END_SECTION:waka-->
-
-<h3>
-  <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=kunalkeshan&label=Profile%20views&color=6805D3&style=for-the-badge" alt="Kunal Keshan Profile Visits" /> 
-  </p>
-</h3>
-
+<!-- <div align="center">
+  <img alt="kunalkeshan's Wakatime Coding Stats" src="https://wakatime.com/share/@kunalkeshan/719a1761-51c7-4c92-9938-ae833c171e60.svg" width="320" />
+</div> -->
+  
 [WEBSITE]: https://kunalkeshan.dev
 [LINKEDIN]: https://www.linkedin.com/in/kunalkeshan/
 [TWITTER]: https://twitter.com/_kunalkeshan_

@@ -15,7 +15,8 @@
 
 <h3>
   <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=kunalkeshan&label=Profile%20views&color=6805D3&style=for-the-badge" alt="Kunal Keshan Profile Visits" /> 
+    <img src="https://komarev.com/ghpvc/?username=kunalkeshan&label=Profile%20views&color=6805D3&style=for-the-badge" alt="Kunal Keshan Profile Visits" />
+    <img src="https://wakatime.com/badge/user/aaa9886d-338c-47c9-b776-f0703babcd82.svg?style=for-the-badge" alt="Kunal Keshan Coding Time" />
   </p>
 </h3>
 

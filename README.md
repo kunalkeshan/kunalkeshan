@@ -83,7 +83,6 @@
   <a href="https://www.youtube.com/channel/UCwVRztzBdqgB_Y9hkMX3lZA"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" /></a>
   <a href="https://twitter.com/_kunalkeshan_"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" /></a>
   <a href="https://www.facebook.com/kunalkeshans/"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" /></a>
-  <a href=""><img alt="Reddit" src="https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white" /></a>
 </div>
 
 <h2 align="center"> Interested in Tech, Productivity, and want to know more about me? Check out my content @...</h2>

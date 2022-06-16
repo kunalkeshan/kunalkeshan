@@ -1,6 +1,5 @@
 <!-- <img alt="Kunal Keshan" src="<Banner URL HERE>" /> -->
 <h1 align="center">
-  
   Hello there, I'm [Kunal Keshan][WEBSITE] 
   <img alt="emoji" width="40" src="https://github.com/seanprashad/slackmoji/blob/master/emoji/shiblob/shiblob-nerd.png" />
 </h1>
@@ -28,6 +27,7 @@
   <!--   <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/> -->
   <!--   <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white" /> -->
     <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
+    ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
     <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />
     <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
     <img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />

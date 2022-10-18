@@ -106,8 +106,11 @@
 </div>
 
 
-
 -------
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=kunalkeshan&margin-w=8&margin-h=4&theme=onedark&column=-1" alt="Kunal Keshan's GitHub Trophies" />
+</p>
 
 <table>
   <tr>

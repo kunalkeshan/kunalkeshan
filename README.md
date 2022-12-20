@@ -2,7 +2,7 @@
 <h1 align="center">
   
   Hello there, I'm [Kunal Keshan][WEBSITE]
-  <img alt="emoji" width="40" src="https://github.com/seanprashad/slackmoji/blob/master/emoji/shiblob/shiblob-nerd.png" />
+  <img alt="emoji" width="40" src="https://media.tenor.com/KWobkKSWriwAAAAM/nerd.gif" />
 </h1>
 
 <div>
@@ -116,8 +116,9 @@
   <tr>
     <td>
       <img src="https://github-readme-stats.vercel.app/api?username=kunalkeshan&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Kunal Keshan" />
+    </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kunalkeshan&show_icons=true&locale=en&layout=compact&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Kunal Keshan" /></td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kunalkeshan&show_icons=true&locale=en&layout=compact&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Kunal Keshan" />       </td>
   </tr>
 </table>
 
@@ -125,7 +126,7 @@
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kunalkeshan&theme=dark" alt="kunalkeshan" /></p>
 </div>
 
-[![kunalkeshan's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=kunalkeshan&theme=xcode)](https://github.com/kunalkeshan)
+![Kunals's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=kunalkeshan&bg_color=000000&color=ffffff&line=c800ff&point=ffffff&area=true&hide_border=true)
 
 <!-- <div align="center">
   <img alt="kunalkeshan's Wakatime Coding Stats" src="https://wakatime.com/share/@kunalkeshan/719a1761-51c7-4c92-9938-ae833c171e60.svg" width="320" />

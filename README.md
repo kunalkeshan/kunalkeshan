@@ -35,7 +35,7 @@
 
 <div align="center">
   <h2>Languages, Frameworks & Tools</h2>
-  <img src="https://skillicons.dev/icons?i=git,github,nodejs,vite,html,css,sass,tailwind,bootstrap,js,ts,react,nextjs,redux,java,c,py,firebase,mongodb,mysql,postgresql,postman,netlify,vercel,figma" alt="skills logos" />
+  <img src="https://skillicons.dev/icons?i=git,github,nodejs,vite,html,css,sass,tailwind,bootstrap,js,ts,react,nextjs,redux,java,c,py,firebase,mongodb,mysql,postgresql,postman,netlify,vercel,figma,vscode,mui" alt="skills logos" />
   <br /> 
   <h2>Actively Learning</h3>
   <img src="https://skillicons.dev/icons?i=linux,githubactions,aws,gcp" alt="skills actively learning logos">
@@ -52,48 +52,32 @@
   <a href="https://www.facebook.com/kunalkeshans/"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" /></a>
 </div>
 
-<h2 align="center"> Interested in Tech, Productivity, and want to know more about me? Check out my content @...</h2>
-
-<div align="center">
-  <a href="https://www.blog.kunalkeshan.dev"><img alt="Kunal Keshan Personal Blog" src="https://shields.io/badge/-Blog-brightgreen?style=for-the-badge&logo=appveyor" /></a>
-  <a href="https://kunalkeshan.medium.com/"><img alt="Medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
-  <a href="https://hashnode.com/@kunalkeshan"><img alt="Hashnode" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" /></a>
-  <a href="https://dev.to/kunalkeshan"><img alt="Dev.to" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" /></a>
-  <a href="https://stackoverflow.com/users/14187429/kunalkeshan"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" /></a>
-</div>
-
-<!-- <h2 align="center"> Project's I'm produd of </h2> -->
-
-<h2 align="center"> Places I like to chill </h2>
-
-<div align="center">
-  <a href="https://codepen.io/kunalkeshan"><img alt="CodePen" src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" /></a>
-  <a href="https://codesandbox.io/u/kunalkeshan"><img alt="Codesandbox" src="https://img.shields.io/badge/Codesandbox-040404?style=for-the-badge&logo=codesandbox&logoColor=DBDBDB" /></a>
-  <a href="https://replit.com/@kunalkeshan"><img alt="Replit" src="https://img.shields.io/badge/Repl.it-%230D101E.svg?style=for-the-badge&logo=replit&logoColor=white" /></a>
-</div>
-
+<!-- <h2>👩‍💻 Projects</h2> -->
 
 -------
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kunalkeshan&margin-w=8&margin-h=4&theme=onedark" alt="Kunal Keshan's GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=kunalkeshan&margin-w=8&margin-h=8&theme=onedark&no-frame=true&column=6&" alt="Kunal Keshan's GitHub Trophies" width="100%" />
 </p>
 
-<table align="center">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=kunalkeshan&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Kunal Keshan" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kunalkeshan&show_icons=true&locale=en&layout=compact&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Kunal Keshan" />       </td>
-  </tr>
-</table>
+<div align="center">
+  <h2>🏆 My Github Stats</h2>
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=kunalkeshan&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Kunal Keshan" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kunalkeshan&show_icons=true&locale=en&layout=compact&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Kunal Keshan" />       </td>
+    </tr>
+  </table>
+</div>
 
 <div align="center">
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kunalkeshan&theme=dark" alt="kunalkeshan" /></p>
 </div>
 
-![Kunals's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=kunalkeshan&bg_color=000000&color=ffffff&line=c800ff&point=ffffff&area=true&hide_border=true)
+![Kunals's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kunalkeshan&bg_color=000000&color=ffffff&line=c800ff&point=ffffff&area=true&hide_border=true)
 
 <!-- <div align="center">
   <img alt="kunalkeshan's Wakatime Coding Stats" src="https://wakatime.com/share/@kunalkeshan/719a1761-51c7-4c92-9938-ae833c171e60.svg" width="320" />
@@ -106,6 +90,7 @@
 [YOUTUBE]: https://www.youtube.com/channel/UCwVRztzBdqgB_Y9hkMX3lZA
 [FACEBOOK]: https://www.facebook.com/kunalkeshans/
 [EMAIL]: mailto:kunalkeshan12@gmail.com
+[BLOG]: https://blog.kunalkeshan.dev
 
 <!-- USE LATER  
 

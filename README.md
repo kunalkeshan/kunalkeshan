@@ -1,6 +1,5 @@
 <!-- <img alt="Kunal Keshan" src="<Banner URL HERE>" /> -->
 <h1 align="center">
-  
   Hello there, I'm [Kunal Keshan][WEBSITE]
   <img alt="" width="40" src="https://media.tenor.com/KWobkKSWriwAAAAM/nerd.gif" />
 </h1>
